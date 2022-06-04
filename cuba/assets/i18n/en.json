@@ -203,6 +203,8 @@
   "transaction_menu": "Transactions",
   "grilletarifaire_menu": "Grille tarifaire",
   "addtransaction_menu": "Initier transaction",
+  "country_menu": "Pays",
+  "zone_menu": "Zones",
   "payments": "Paiements",
   "sendmoney_menu": "Envoyer l'argent",
   "departement_delete": "Voulez-vous vraiment le Departement",

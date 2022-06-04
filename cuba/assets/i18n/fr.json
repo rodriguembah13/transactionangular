@@ -213,6 +213,8 @@
       "prefunding_menu": "Prefunding",
       "transaction_menu": "Transactions",
       "addtransaction_menu": "Initier transaction",
+      "country_menu": "Pays",
+      "zone_menu": "Zones",
       "grilletarifaire_menu": "Grille tarifaire",
       "payments": "Paiements",
       "sendmoney_menu": "Envoyer l'argent",

@@ -231,7 +231,7 @@
       padding: 3px;
 
       >div {
-        background-color: #7366ff;
+        background-color: $primary-color;
         height: 100%;
         width: 100%;
         border-radius: 5px;
@@ -239,7 +239,7 @@
 
       &[data-attr="color-2"] {
         div {
-          background-color: #4831D4;
+          background-color: $primary-color;
         }
       }
 
@@ -251,19 +251,19 @@
 
       &[data-attr="color-4"] {
         div {
-          background-color: #4c2fbf;
+          background-color: #e25226;
         }
       }
 
       &[data-attr="color-5"] {
         div {
-          background-color: #7c4dff;
+          background-color: #e25226;
         }
       }
 
       &[data-attr="color-6"] {
         div {
-          background-color: #3949ab;
+          background-color: #e25226;
         }
       }
     }
