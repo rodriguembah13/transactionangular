@@ -212,5 +212,6 @@
   "directeur": "Directeur",
   "phone": "Téléphone",
   "adress": "Adresse",
-  "siteweb": "Site internet"
+  "siteweb": "Site internet",
+  "configuration_menu": "Parametrage"
 }

@@ -209,6 +209,7 @@
             "no": "Non"
       },
       "customer_menu": "Clients",
+      "configuration_menu": "Parametrage",
       "tauxechange_menu": "Taux d'echange ",
       "prefunding_menu": "Prefunding",
       "transaction_menu": "Transactions",
