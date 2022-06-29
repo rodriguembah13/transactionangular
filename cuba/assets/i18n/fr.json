@@ -209,6 +209,8 @@
             "no": "Non"
       },
       "customer_menu": "Clients",
+      "users_menu": "Utilisateurs",
+      "town_menu": "Villes",
       "configuration_menu": "Parametrage",
       "tauxechange_menu": "Taux d'echange ",
       "prefunding_menu": "Prefunding",
