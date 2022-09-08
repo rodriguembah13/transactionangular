@@ -213,6 +213,7 @@
       "town_menu": "Villes",
       "configuration_menu": "Parametrage",
       "tauxechange_menu": "Taux d'echange ",
+      "balance_menu": "Balances",
       "prefunding_menu": "Prefunding",
       "transaction_menu": "Transactions",
       "addtransaction_menu": "Simulation",
