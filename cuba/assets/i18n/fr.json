@@ -218,6 +218,7 @@
       "transaction_menu": "Transactions",
       "addtransaction_menu": "Simulation",
       "country_menu": "Pays",
+      "operateur_menu": "Operateurs",
       "zone_menu": "Zones",
       "grilletarifaire_menu": "Grille tarifaire",
       "payments": "Paiements",
